@@ -1,7 +1,7 @@
 aniso8601==9.0.1
 anyio==3.4.0
 appdirs==1.4.4
-apturl==0.5.2
+apturl 
 asgiref==3.4.1
 attrs==19.3.0
 Automat==0.8.0
