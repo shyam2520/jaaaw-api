@@ -1,0 +1,6 @@
+fastapi==0.70.0
+pymongo==3.12.1
+uvicorn==0.12.3
+aiofiles==0.6.0
+python-multipart==0.0.5
+jinja2==2.11.2
