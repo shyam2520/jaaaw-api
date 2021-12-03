@@ -1,6 +1,7 @@
 from typing import Optional
 
-from fastapi import FastAPI
+from fastapi import FastAPI,HTTPException,Request
+from fastapi.responses import JSONResponse
 from bson import json_util
 import pymongo
 import re
@@ -14,21 +15,26 @@ collection=db['Show_Name_Details']
 app =FastAPI()
 
 
+class animeException(Exception):
+    def __init__(self, name: str):
+        self.name = name
+
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
 
 
-# @app.get("/items/{item_id}")
-# def read_item(item_id: int, q: Optional[str] = None):
-#     return {"item_id": item_id, "q": q}
+@app.exception_handler(animeException)
+async def unicorn_exception_handler(request: Request, exc: animeException):
+    return JSONResponse(
+        status_code=404,
+        content={"message": f" {exc.name} isn't available as of now !!"},
+    )
 
-@app.get('/anime/{anime}')
-def find_anime(anime:str):
-    regex=re.compile(f'^{anime}',re.IGNORECASE)
-    # res= [i for i in collection.find({'title':regex},{'_id': 0})]
+@app.get('/anime')
+def get_anime(name:str,genre:Optional[str]=None):
+    regex=re.compile(f'^{name}',re.IGNORECASE)
     res=list(collection.find({'title':regex},{'_id': 0}))
-    # print(type(res[0]))
-    # response ={"status":200,"Shows":len(res),"data":dumps(res)}
-    #     # print(res[i],end='\n\n')
-    return res
+    if not(res) or len(res)==0:
+        raise animeException(name)
+    return {'status':200,'results':len(res),'data':res}
