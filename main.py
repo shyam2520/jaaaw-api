@@ -44,7 +44,15 @@ async def unicorn_exception_handler(request: Request, exc: animeException):
 @app.get('/anime')
 def get_anime(name:str,genre:Optional[str]=None):
     regex=re.compile(f'^{name}',re.IGNORECASE)
-    res=list(collection.find({'title':regex},{'_id': 0}))
+    res=list(collection.find({'title':regex},{'_id': 0,'episodes':0,'genre':0}))
     if not(res) or len(res)==0:
         raise animeException(name)
+    return {'status':200,'results':len(res),'data':res}
+
+@app.get('/episode')
+def get_anime(title:str,genre:Optional[str]=None):
+    # regex=re.compile(f'^{title}',re.IGNORECASE)
+    res=list(collection.find({'title':title},{'_id': 0}))
+    if not(res) or len(res)==0:
+        raise animeException(title)
     return {'status':200,'results':len(res),'data':res}
