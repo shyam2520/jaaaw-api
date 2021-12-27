@@ -16,6 +16,8 @@ collection=db['Show_Name_Details']
 
 app =FastAPI()
 
+API_BASE_URL = 'https://gogoanime.mom/my-ajax'
+
 # origins=['http://localhost:3000/']
 
 app.add_middleware(
