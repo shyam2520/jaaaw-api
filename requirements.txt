@@ -3,5 +3,6 @@ fastapi==0.70.0
 pymongo[tls,srv]
 uvicorn==0.12.3
 aiofiles==0.6.0
+requests==2.26.0
 python-multipart==0.0.5
 jinja2==2.11.2

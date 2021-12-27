@@ -4,6 +4,7 @@ from fastapi import FastAPI,HTTPException,Request
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from bson import json_util
+import requests
 import pymongo
 import re
 import json
@@ -41,18 +42,46 @@ async def unicorn_exception_handler(request: Request, exc: animeException):
         content={"message": f" {exc.name} isn't available as of now !!"},
     )
 
-@app.get('/anime')
-def get_anime(name:str,genre:Optional[str]=None):
-    regex=re.compile(f'^{name}',re.IGNORECASE)
-    res=list(collection.find({'title':regex},{'_id': 0,'episodes':0,'genre':0}))
-    if not(res) or len(res)==0:
+
+
+def getanime_gogoanime(paramters):
+
+    api_res = requests.get(API_BASE_URL, params=paramters)
+    anime_res = api_res.json()
+    anime_res['source'] = 'GOGO'
+    return anime_res
+
+
+def getanime_JAAW(name, params):
+    regex = re.compile(f'^{name}', re.IGNORECASE)
+    res = list(collection.find({'title': regex}, params))
+    if not(res) or len(res) == 0:
         raise animeException(name)
-    return {'status':200,'results':len(res),'data':res}
+    return {'results': len(res), 'data': res, 'source': 'JAAW'}
+
+
+@app.get('/anime')
+def get_anime(name: str, genre: Optional[str] = None):
+    paramters = {
+        'character': name,
+        'action': 'load_anime_list',
+        'limit': 100
+    }
+    res = getanime_gogoanime(paramters)
+    if(res['total_page'] == 0):
+        return getanime_JAAW(name, {
+            '_id': 0, 'episodes': 0, 'genre': 0})
+    return res
+
 
 @app.get('/episode')
-def get_anime(title:str,genre:Optional[str]=None):
+def get_anime(title: str, id: Optional[str] = None):
     # regex=re.compile(f'^{title}',re.IGNORECASE)
-    res=list(collection.find({'title':title},{'_id': 0}))
-    if not(res) or len(res)==0:
-        raise animeException(title)
-    return {'status':200,'results':len(res),'data':res}
+    if id:
+        paramters = {
+            'movie_id': id,
+            'action': 'load_list_episode',
+            'limit': 100
+        }
+        return getanime_gogoanime(paramters)
+    return getanime_JAAW(title,{'_id': 0})
