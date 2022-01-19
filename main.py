@@ -115,3 +115,31 @@ def get_anime(movie_id: str, action: Optional[str] = 'load_list_episode',lastidx
             raise animeException(f"{params['character']} ")
 
     return res
+
+@app.get('/topanime')
+def get_top_anime(type:str,action:str):
+    params = {
+        'action':action,
+        'type':type,
+        'limit':10
+    }
+    try :
+        res=getanime_gogoanime(params)
+    except Exception as JAAWAPIException:
+        raise animeException(f"{params['action']} ")
+
+    return res
+
+@app.get('/popular_on_going')
+def get_poppular_ongoing(page:int,limit:int,action:Optional[str]='load_popular_ongoing_update'):
+    params={
+        'action':action,
+        'limit':limit,
+        'page':page
+    }
+    try :
+        res=getanime_gogoanime(params)
+    except Exception as GogoAnimeException:
+        raise animeException(f"{params['action']} ")
+    return res
+
