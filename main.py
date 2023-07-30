@@ -5,8 +5,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 import requests
 import pymongo
+import logging
 
 from GetAnimeList import GetEpisodeList, GetAnimeList
+
+logging.basicConfig(level=logging.DEBUG,filename="./log.log" ,format="%(asctime)s - %(levelname)s - %(message)s")
 
 client = pymongo.MongoClient(
     "mongodb+srv://LowSpecGamer:upPGEx2uMXLpSytB@animescrape.msztw.mongodb.net/animeScrape?retryWrites=true&w=majority")
@@ -77,14 +80,13 @@ def getepisode_JAAW(collection,params):
 
 
 @app.get('/anime')
-def get_anime(character: str, action: Optional[str] = 'load_anime_list', limit: Optional[int] = 100, page: Optional[int] = 1):
+def get_anime(keyword: str, action: Optional[str] = 'search', limit: Optional[int] = 100, page: Optional[int] = 1):
     params = {
-        'character': character,
+        'keyword': keyword,
         'action': action,
         'limit': limit,
         'page': page
     }
-
     try:
         res = getanime_gogoanime(params)
     except Exception as GogoAnimeException:
@@ -97,13 +99,13 @@ def get_anime(character: str, action: Optional[str] = 'load_anime_list', limit: 
 
 
 @app.get('/episode')
-def get_anime(movie_id: str, action: Optional[str] = 'load_list_episode',lastidx:Optional[str]='', limit: Optional[int] = 100, page: Optional[int] = 1):
+def get_anime(movie_id: str, action: Optional[str] = 'list_episode',lastidx:Optional[str]='', limit: Optional[int] = 100, page: Optional[int] = 0):
     params = {
         'movie_id': movie_id,
         'action': action,
         'limit': limit,
-        'page': page,
-        'lastidx':lastidx
+        'different_page': page,
+        # 'lastidx':lastidx
     }
 
     try:
@@ -117,21 +119,24 @@ def get_anime(movie_id: str, action: Optional[str] = 'load_list_episode',lastidx
     return res
 
 @app.get('/topanime')
-def get_top_anime(type:str,action:str):
+def get_top_anime(action:str,type_of_view:str,limit:int,page:int):
+    # logging.info("top anime endpoint ")
+    logging.info(f"action : ${action}, type: ${type_of_view}")
     params = {
         'action':action,
-        'type':type,
-        'limit':10
+        'top_view':type_of_view,
+        'limit':limit,
+        'page':page
     }
     try :
         res=getanime_gogoanime(params)
     except Exception as JAAWAPIException:
         raise animeException(f"{params['action']} ")
 
-    return res
+    return res 
 
 @app.get('/popular_on_going')
-def get_poppular_ongoing(page:int,limit:int,action:Optional[str]='load_popular_ongoing_update'):
+def get_poppular_ongoing(page:int,limit:int,action:Optional[str]='popular_ongoing_update'):
     params={
         'action':action,
         'limit':limit,

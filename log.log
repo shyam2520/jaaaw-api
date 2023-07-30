@@ -1,0 +1,1145 @@
+2023-07-30 12:11:00,710 - INFO - Shutting down
+2023-07-30 12:11:00,811 - INFO - Waiting for application shutdown.
+2023-07-30 12:11:00,812 - INFO - Application shutdown complete.
+2023-07-30 12:11:00,812 - INFO - Finished server process [11461]
+2023-07-30 12:11:02,121 - INFO - Started server process [11577]
+2023-07-30 12:11:02,121 - INFO - Waiting for application startup.
+2023-07-30 12:11:02,121 - INFO - Application startup complete.
+2023-07-30 12:11:22,624 - INFO - Shutting down
+2023-07-30 12:11:22,725 - INFO - Waiting for application shutdown.
+2023-07-30 12:11:22,726 - INFO - Application shutdown complete.
+2023-07-30 12:11:22,726 - INFO - Finished server process [11577]
+2023-07-30 12:11:23,924 - INFO - Started server process [11637]
+2023-07-30 12:11:23,925 - INFO - Waiting for application startup.
+2023-07-30 12:11:23,925 - INFO - Application startup complete.
+2023-07-30 12:11:27,641 - INFO - Shutting down
+2023-07-30 12:11:27,742 - INFO - Waiting for application shutdown.
+2023-07-30 12:11:27,742 - INFO - Application shutdown complete.
+2023-07-30 12:11:27,743 - INFO - Finished server process [11637]
+2023-07-30 12:11:29,124 - INFO - Started server process [11664]
+2023-07-30 12:11:29,125 - INFO - Waiting for application startup.
+2023-07-30 12:11:29,125 - INFO - Application startup complete.
+2023-07-30 12:12:16,373 - INFO - Shutting down
+2023-07-30 12:12:16,474 - INFO - Waiting for application shutdown.
+2023-07-30 12:12:16,474 - INFO - Application shutdown complete.
+2023-07-30 12:12:16,474 - INFO - Finished server process [11664]
+2023-07-30 12:12:17,666 - INFO - Started server process [11718]
+2023-07-30 12:12:17,666 - INFO - Waiting for application startup.
+2023-07-30 12:12:17,667 - INFO - Application startup complete.
+2023-07-30 12:12:55,454 - INFO - Shutting down
+2023-07-30 12:12:55,555 - INFO - Waiting for application shutdown.
+2023-07-30 12:12:55,556 - INFO - Application shutdown complete.
+2023-07-30 12:12:55,556 - INFO - Finished server process [11718]
+2023-07-30 12:12:59,532 - INFO - Started server process [11760]
+2023-07-30 12:12:59,532 - INFO - Waiting for application startup.
+2023-07-30 12:12:59,532 - INFO - Application startup complete.
+2023-07-30 12:13:16,918 - INFO - Shutting down
+2023-07-30 12:13:17,020 - INFO - Waiting for application shutdown.
+2023-07-30 12:13:17,021 - INFO - Application shutdown complete.
+2023-07-30 12:13:17,021 - INFO - Finished server process [11760]
+2023-07-30 12:13:18,300 - INFO - Started server process [11820]
+2023-07-30 12:13:18,300 - INFO - Waiting for application startup.
+2023-07-30 12:13:18,301 - INFO - Application startup complete.
+2023-07-30 12:13:22,017 - INFO - Shutting down
+2023-07-30 12:13:22,119 - INFO - Waiting for application shutdown.
+2023-07-30 12:13:22,119 - INFO - Application shutdown complete.
+2023-07-30 12:13:22,119 - INFO - Finished server process [11820]
+2023-07-30 12:13:23,315 - INFO - Started server process [11848]
+2023-07-30 12:13:23,316 - INFO - Waiting for application startup.
+2023-07-30 12:13:23,316 - INFO - Application startup complete.
+2023-07-30 12:13:26,730 - INFO - Shutting down
+2023-07-30 12:13:26,830 - INFO - Waiting for application shutdown.
+2023-07-30 12:13:26,831 - INFO - Application shutdown complete.
+2023-07-30 12:13:26,831 - INFO - Finished server process [11848]
+2023-07-30 12:13:28,066 - INFO - Started server process [11880]
+2023-07-30 12:13:28,066 - INFO - Waiting for application startup.
+2023-07-30 12:13:28,067 - INFO - Application startup complete.
+2023-07-30 12:14:15,419 - INFO - Shutting down
+2023-07-30 12:14:15,520 - INFO - Waiting for application shutdown.
+2023-07-30 12:14:15,521 - INFO - Application shutdown complete.
+2023-07-30 12:14:15,521 - INFO - Finished server process [11880]
+2023-07-30 12:14:16,913 - INFO - Started server process [11964]
+2023-07-30 12:14:16,914 - INFO - Waiting for application startup.
+2023-07-30 12:14:16,914 - INFO - Application startup complete.
+2023-07-30 12:14:19,223 - INFO - Shutting down
+2023-07-30 12:14:19,325 - INFO - Waiting for application shutdown.
+2023-07-30 12:14:19,326 - INFO - Application shutdown complete.
+2023-07-30 12:14:19,327 - INFO - Finished server process [11964]
+2023-07-30 12:14:20,534 - INFO - Started server process [11996]
+2023-07-30 12:14:20,534 - INFO - Waiting for application startup.
+2023-07-30 12:14:20,534 - INFO - Application startup complete.
+2023-07-30 12:14:23,885 - DEBUG - params
+2023-07-30 12:14:23,891 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:14:24,794 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death&action=search&limit=100&page=1 HTTP/1.1" 200 None
+2023-07-30 12:14:50,886 - INFO - Shutting down
+2023-07-30 12:14:50,987 - INFO - Waiting for application shutdown.
+2023-07-30 12:14:50,988 - INFO - Application shutdown complete.
+2023-07-30 12:14:50,989 - INFO - Finished server process [11996]
+2023-07-30 12:14:52,244 - INFO - Started server process [12053]
+2023-07-30 12:14:52,245 - INFO - Waiting for application startup.
+2023-07-30 12:14:52,245 - INFO - Application startup complete.
+2023-07-30 12:14:55,461 - INFO - Shutting down
+2023-07-30 12:14:55,562 - INFO - Waiting for application shutdown.
+2023-07-30 12:14:55,563 - INFO - Application shutdown complete.
+2023-07-30 12:14:55,564 - INFO - Finished server process [12053]
+2023-07-30 12:14:56,798 - INFO - Started server process [12078]
+2023-07-30 12:14:56,798 - INFO - Waiting for application startup.
+2023-07-30 12:14:56,798 - INFO - Application startup complete.
+2023-07-30 12:15:02,952 - INFO - action : $top_view, type: $day
+2023-07-30 12:15:02,957 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:03,096 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:03,105 - INFO - action : $top_view, type: $day
+2023-07-30 12:15:03,108 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:03,175 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:04,088 - INFO - action : $top_view, type: $day
+2023-07-30 12:15:04,091 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:04,163 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:04,165 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:04,176 - INFO - action : $top_view, type: $day
+2023-07-30 12:15:04,180 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:04,266 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:04,275 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death&action=search&limit=30&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:04,301 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:04,426 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death&action=search&limit=30&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:04,488 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:04,595 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death&action=search&limit=30&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:04,626 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:04,708 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death&action=search&limit=30&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:04,729 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:04,788 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death&action=search&limit=30&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:04,804 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:04,869 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death&action=search&limit=30&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:08,514 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:08,719 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death&action=search&limit=30&page=1 HTTP/1.1" 200 None
+2023-07-30 12:15:10,982 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:11,106 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:15:12,035 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:12,142 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:15:12,173 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:15:12,226 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:16:11,165 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:11,260 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:16:11,273 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:11,359 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:16:24,203 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:24,208 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:24,210 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:24,401 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14890
+2023-07-30 12:16:24,423 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:24,468 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:24,470 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:24,478 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:24,584 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14890
+2023-07-30 12:16:24,585 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:24,627 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:24,632 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:24,639 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:24,724 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:24,762 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:24,783 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:24,817 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14890
+2023-07-30 12:16:24,900 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:24,944 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:25,030 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14890
+2023-07-30 12:16:28,986 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:29,080 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:16:30,604 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:30,608 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:30,666 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:30,780 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:30,794 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:30,798 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:30,933 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:30,949 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:30,951 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:30,968 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=22903&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 215
+2023-07-30 12:16:30,979 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:31,018 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:31,032 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:31,035 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:31,058 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=22903&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 215
+2023-07-30 12:16:31,087 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:31,140 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:31,202 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=22903&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 215
+2023-07-30 12:16:31,227 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:31,331 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=22903&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 215
+2023-07-30 12:16:31,339 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:31,401 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=22903&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 215
+2023-07-30 12:16:31,410 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:31,471 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=22903&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 215
+2023-07-30 12:16:31,486 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:31,553 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=22903&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 215
+2023-07-30 12:16:31,561 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:31,732 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=22903&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 215
+2023-07-30 12:16:44,196 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:44,199 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:44,201 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:44,442 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14890
+2023-07-30 12:16:44,443 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:44,488 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:44,494 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:44,495 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:44,625 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14890
+2023-07-30 12:16:44,626 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:44,666 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:44,668 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:44,672 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:44,801 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:44,836 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14890
+2023-07-30 12:16:44,866 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:44,869 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:44,878 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:44,954 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:45,006 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14890
+2023-07-30 12:16:47,415 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:47,564 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:16:48,438 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:48,441 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:48,501 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:48,583 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:48,583 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:16:48,590 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:48,593 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:48,606 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:48,683 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:16:48,691 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:48,691 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:48,699 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:48,701 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:48,831 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:16:48,833 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:48,847 - INFO - action : $top_view, type: $day
+2023-07-30 12:16:48,852 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:48,852 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:48,950 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:16:48,955 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:16:48,974 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:49,178 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:16:49,191 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:16:49,327 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:19:49,967 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:19:50,068 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:19:50,080 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:19:50,202 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:19:56,756 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:19:56,897 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:19:56,912 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:19:56,998 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:01,095 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:01,252 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:01,261 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:01,436 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:06,348 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:06,465 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:06,487 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:06,632 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:22,310 - INFO - action : $top_view, type: $day
+2023-07-30 12:20:22,315 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:22,460 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:20:22,475 - INFO - action : $top_view, type: $day
+2023-07-30 12:20:22,478 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:22,557 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:20:23,548 - INFO - action : $top_view, type: $day
+2023-07-30 12:20:23,551 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:23,625 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:20:23,640 - INFO - action : $top_view, type: $day
+2023-07-30 12:20:23,651 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:23,669 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:23,746 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:23,756 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:23,757 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:20:23,853 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:23,866 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:23,942 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:23,957 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:24,062 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:24,074 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:24,195 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:24,208 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:24,268 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1770
+2023-07-30 12:20:29,099 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:30,090 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:20:30,127 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:30,296 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:20:30,308 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:30,379 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:20:34,749 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:35,750 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=2 HTTP/1.1" 200 None
+2023-07-30 12:20:35,767 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:36,041 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=2 HTTP/1.1" 200 None
+2023-07-30 12:20:47,781 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:47,852 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:20:47,873 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:20:47,956 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:21:41,569 - INFO - action : $top_view, type: $day
+2023-07-30 12:21:41,573 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:21:41,791 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:21:41,811 - INFO - action : $top_view, type: $day
+2023-07-30 12:21:41,817 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:21:41,937 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:21:42,747 - INFO - action : $top_view, type: $day
+2023-07-30 12:21:42,751 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:21:42,832 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:21:42,886 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:21:42,902 - INFO - action : $top_view, type: $day
+2023-07-30 12:21:42,905 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:21:42,932 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:21:42,971 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:21:43,009 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:21:43,079 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:21:43,105 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:21:43,211 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:21:43,249 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:21:43,411 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:21:43,423 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:21:43,524 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:21:43,543 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:21:43,633 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=one&action=search&limit=30&page=1 HTTP/1.1" 200 8813
+2023-07-30 12:31:01,583 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:31:01,610 - INFO - action : $top_view, type: $day
+2023-07-30 12:31:01,613 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:31:11,592 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/util/connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3.11/site-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f534f053310>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='gogoanime.mom', port=443): Max retries exceeded with url: /my-ajax?keyword=one&action=search&limit=30&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f534f053310>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 91, in get_anime
+    res = getanime_gogoanime(params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 65, in getanime_gogoanime
+    api_res = requests.get(API_BASE_URL, params=paramters)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='gogoanime.mom', port=443): Max retries exceeded with url: /my-ajax?keyword=one&action=search&limit=30&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f534f053310>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 94, in get_anime
+    res = getanime_JAAW(anime_collection, params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 72, in getanime_JAAW
+    anime_res = GetAnimeList(anime_collection, params)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/GetAnimeList.py", line 15, in GetAnimeList
+    name = params['character'] if params['character'] else ''
+                                  ~~~~~~^^^^^^^^^^^^^
+KeyError: 'character'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 394, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/fastapi/applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/routing.py", line 61, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/fastapi/routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/fastapi/routing.py", line 161, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/concurrency.py", line 39, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 96, in get_anime
+    raise animeException(f"{params['character']} ")
+                            ~~~~~~^^^^^^^^^^^^^
+KeyError: 'character'
+2023-07-30 12:31:11,607 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:31:11,627 - INFO - action : $top_view, type: $day
+2023-07-30 12:31:11,630 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:31:21,616 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/util/connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3.11/site-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f534c684e90>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='gogoanime.mom', port=443): Max retries exceeded with url: /my-ajax?keyword=one&action=search&limit=30&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f534c684e90>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 91, in get_anime
+    res = getanime_gogoanime(params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 65, in getanime_gogoanime
+    api_res = requests.get(API_BASE_URL, params=paramters)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='gogoanime.mom', port=443): Max retries exceeded with url: /my-ajax?keyword=one&action=search&limit=30&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f534c684e90>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 94, in get_anime
+    res = getanime_JAAW(anime_collection, params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 72, in getanime_JAAW
+    anime_res = GetAnimeList(anime_collection, params)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/GetAnimeList.py", line 15, in GetAnimeList
+    name = params['character'] if params['character'] else ''
+                                  ~~~~~~^^^^^^^^^^^^^
+KeyError: 'character'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 394, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/fastapi/applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/routing.py", line 61, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/fastapi/routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/fastapi/routing.py", line 161, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/concurrency.py", line 39, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 96, in get_anime
+    raise animeException(f"{params['character']} ")
+                            ~~~~~~^^^^^^^^^^^^^
+KeyError: 'character'
+2023-07-30 12:31:21,853 - INFO - action : $top_view, type: $day
+2023-07-30 12:31:21,857 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:31:22,843 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:31:32,852 - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/util/connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3.11/site-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f534c687450>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='gogoanime.mom', port=443): Max retries exceeded with url: /my-ajax?keyword=one&action=search&limit=30&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f534c687450>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 91, in get_anime
+    res = getanime_gogoanime(params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 65, in getanime_gogoanime
+    api_res = requests.get(API_BASE_URL, params=paramters)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='gogoanime.mom', port=443): Max retries exceeded with url: /my-ajax?keyword=one&action=search&limit=30&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f534c687450>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 94, in get_anime
+    res = getanime_JAAW(anime_collection, params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 72, in getanime_JAAW
+    anime_res = GetAnimeList(anime_collection, params)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/GetAnimeList.py", line 15, in GetAnimeList
+    name = params['character'] if params['character'] else ''
+                                  ~~~~~~^^^^^^^^^^^^^
+KeyError: 'character'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 394, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/fastapi/applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/routing.py", line 61, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/fastapi/routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/fastapi/routing.py", line 161, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/starlette/concurrency.py", line 39, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/home/nospecgamer/.local/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nospecgamer/DEV/jaaaw-api/main.py", line 96, in get_anime
+    raise animeException(f"{params['character']} ")
+                            ~~~~~~^^^^^^^^^^^^^
+KeyError: 'character'
+2023-07-30 12:31:36,579 - INFO - Shutting down
+2023-07-30 12:31:36,680 - INFO - Waiting for application shutdown.
+2023-07-30 12:31:36,681 - INFO - Application shutdown complete.
+2023-07-30 12:31:36,681 - INFO - Finished server process [12078]
+2023-07-30 12:53:39,905 - INFO - Started server process [13847]
+2023-07-30 12:53:39,906 - INFO - Waiting for application startup.
+2023-07-30 12:53:39,906 - INFO - Application startup complete.
+2023-07-30 12:53:45,136 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:53:45,463 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death&action=search&limit=100&page=1 HTTP/1.1" 200 None
+2023-07-30 12:53:54,420 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:53:54,423 - INFO - action : $top_view, type: $day
+2023-07-30 12:53:54,426 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:53:55,167 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:53:55,176 - INFO - action : $top_view, type: $day
+2023-07-30 12:53:55,179 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:53:55,333 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:53:55,341 - INFO - action : $top_view, type: $day
+2023-07-30 12:53:55,345 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:53:55,517 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:53:55,530 - INFO - action : $top_view, type: $day
+2023-07-30 12:53:55,534 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:53:55,591 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:53:55,722 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:53:55,742 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:53:55,818 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:53:55,851 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:53:56,140 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:53:56,176 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:53:56,234 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:54:24,450 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:54:24,452 - INFO - action : $top_view, type: $day
+2023-07-30 12:54:24,455 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:54:24,547 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:54:24,564 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:54:24,587 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:54:24,589 - INFO - action : $top_view, type: $day
+2023-07-30 12:54:24,593 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:54:24,658 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:54:24,659 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:54:24,684 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:54:24,686 - INFO - action : $top_view, type: $day
+2023-07-30 12:54:24,690 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:54:24,761 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:54:24,783 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:54:24,820 - INFO - action : $top_view, type: $day
+2023-07-30 12:54:24,824 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:54:24,850 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:54:24,903 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:54:24,951 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:57:33,665 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:33,711 - INFO - action : $top_view, type: $day
+2023-07-30 12:57:33,730 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:33,815 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:57:33,834 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:57:33,875 - INFO - action : $top_view, type: $day
+2023-07-30 12:57:33,891 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:33,896 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:33,979 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:57:33,992 - INFO - action : $top_view, type: $day
+2023-07-30 12:57:33,999 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:34,002 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:57:34,066 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:34,138 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:57:34,266 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:57:34,321 - INFO - action : $top_view, type: $day
+2023-07-30 12:57:34,326 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:34,327 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:34,504 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:57:34,516 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:57:35,320 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:35,329 - INFO - action : $top_view, type: $day
+2023-07-30 12:57:35,336 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:35,402 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:57:35,430 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:35,435 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:57:35,452 - INFO - action : $top_view, type: $day
+2023-07-30 12:57:35,458 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:35,518 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:57:35,542 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:57:35,612 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:35,614 - INFO - action : $top_view, type: $day
+2023-07-30 12:57:35,617 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:35,694 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:57:35,705 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:57:35,708 - INFO - action : $top_view, type: $day
+2023-07-30 12:57:35,712 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:35,800 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:57:35,818 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:57:35,893 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:01,837 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:01,855 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:01,860 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:01,935 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:01,953 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:01,967 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:01,968 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:01,972 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:02,038 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:02,048 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:02,052 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:02,052 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:02,082 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:02,147 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:02,156 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:02,162 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:02,166 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:02,212 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:02,256 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:02,285 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:02,559 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:02,561 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:02,566 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:02,682 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:02,689 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:02,747 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:02,759 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:02,762 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:02,942 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:02,955 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:03,030 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:03,041 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:03,063 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:03,195 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:03,227 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:03,230 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:03,260 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:03,342 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:03,377 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:03,463 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:08,306 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:08,308 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:08,312 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:08,437 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:08,439 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:08,472 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:08,472 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:08,476 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:08,584 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:08,601 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:08,621 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:08,629 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:08,633 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:08,727 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:08,760 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:08,762 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:08,782 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:08,787 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:08,856 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:08,902 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:08,941 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:08,989 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:08,992 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:09,064 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:09,080 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:09,107 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:09,109 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:09,112 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:09,209 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:09,219 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:09,307 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:09,329 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:09,349 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:09,695 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:09,754 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:09,782 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:09,802 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:09,973 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:10,074 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:10,193 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:16,974 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:16,982 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:16,985 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:17,130 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:17,159 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:17,180 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:17,192 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:17,195 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:17,256 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:17,286 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:17,349 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:17,361 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:17,364 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:17,464 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:17,501 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:17,527 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:17,537 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:17,541 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:17,625 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:17,700 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:36,551 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:36,554 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:36,556 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:36,639 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:36,652 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:36,673 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:36,676 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:36,679 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:36,856 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:36,857 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:36,893 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:36,896 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:36,899 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:36,974 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:36,984 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:37,052 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:37,055 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:37,070 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:37,189 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:37,203 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:43,524 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:43,525 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:43,528 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:43,590 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:43,603 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:43,630 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:43,632 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:43,636 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:43,690 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:43,692 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:43,714 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:43,720 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:43,720 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:43,798 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:43,810 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:43,827 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:43,828 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:43,830 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:43,930 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:43,934 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:57,538 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:57,538 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:57,541 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:57,611 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:57,612 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:57,655 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:57,660 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:57,661 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:57,757 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:57,777 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:57,793 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:57,803 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:57,806 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:57,905 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:57,915 - INFO - action : $top_view, type: $day
+2023-07-30 12:58:57,918 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:57,932 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:58:58,014 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:58:58,024 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:58:58,132 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:10,694 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:10,696 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:10,698 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:10,778 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:10,799 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:10,857 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:10,860 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:10,867 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:10,951 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:10,964 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:10,966 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:10,975 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:11,021 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:11,060 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:11,073 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:11,078 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:11,101 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:11,154 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:11,196 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:11,233 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:34,534 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:34,558 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:34,562 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:34,701 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:34,751 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:34,757 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:34,803 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:34,807 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:34,930 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:34,987 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:35,003 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:35,038 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:35,041 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:35,200 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:35,248 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:35,252 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:35,254 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:35,412 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:35,425 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:35,521 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:37,542 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:37,554 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:37,558 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:37,663 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:37,687 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:37,719 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:37,729 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:37,731 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:37,767 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:37,790 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:37,790 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:37,800 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:37,804 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:37,897 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:37,918 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:37,946 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:37,948 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:37,951 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:38,173 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:38,177 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:45,541 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:45,544 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:45,544 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:45,619 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:45,620 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:45,659 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:45,663 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:45,668 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:45,783 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:45,795 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:45,799 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:45,813 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:45,880 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:45,928 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:45,981 - INFO - action : $top_view, type: $day
+2023-07-30 12:59:45,988 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:46,060 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 12:59:46,112 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 12:59:46,133 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 12:59:46,286 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:00:02,022 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:02,023 - INFO - action : $top_view, type: $day
+2023-07-30 13:00:02,027 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:02,100 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:00:02,116 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:00:02,159 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:02,163 - INFO - action : $top_view, type: $day
+2023-07-30 13:00:02,168 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:02,227 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:00:02,235 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:00:02,237 - INFO - action : $top_view, type: $day
+2023-07-30 13:00:02,256 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:02,261 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:02,339 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:00:02,365 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:00:02,403 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:02,411 - INFO - action : $top_view, type: $day
+2023-07-30 13:00:02,415 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:02,485 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:00:02,520 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:00:24,912 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:24,913 - INFO - action : $top_view, type: $day
+2023-07-30 13:00:24,915 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:24,979 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:00:24,996 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:00:25,040 - INFO - action : $top_view, type: $day
+2023-07-30 13:00:25,041 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:25,043 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:25,121 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:00:25,121 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:00:25,130 - INFO - action : $top_view, type: $day
+2023-07-30 13:00:25,144 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:25,150 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:25,226 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:00:25,247 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:00:25,298 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:25,301 - INFO - action : $top_view, type: $day
+2023-07-30 13:00:25,305 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:00:25,376 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:00:25,398 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:01:17,987 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:17,989 - INFO - action : $top_view, type: $day
+2023-07-30 13:01:17,992 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:18,074 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:01:18,076 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:01:18,099 - INFO - action : $top_view, type: $day
+2023-07-30 13:01:18,105 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:18,108 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:18,175 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:01:18,176 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:01:18,210 - INFO - action : $top_view, type: $day
+2023-07-30 13:01:18,218 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:18,219 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:18,311 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:01:18,320 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:01:18,366 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:18,366 - INFO - action : $top_view, type: $day
+2023-07-30 13:01:18,369 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:18,441 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=polular_ongoing_update&limit=30&page=1 HTTP/1.1" 200 14894
+2023-07-30 13:01:18,451 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:01:37,177 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:38,042 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1771
+2023-07-30 13:01:40,674 - INFO - action : $top_view, type: $day
+2023-07-30 13:01:40,677 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:40,738 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:40,797 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:01:40,806 - INFO - action : $top_view, type: $day
+2023-07-30 13:01:40,808 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:40,880 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1771
+2023-07-30 13:01:40,888 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:40,945 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:01:40,945 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1771
+2023-07-30 13:01:40,959 - INFO - action : $top_view, type: $day
+2023-07-30 13:01:40,960 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:40,962 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:41,029 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:01:41,039 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1771
+2023-07-30 13:01:41,051 - INFO - action : $top_view, type: $day
+2023-07-30 13:01:41,054 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:41,057 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:41,176 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1771
+2023-07-30 13:01:41,181 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?action=top_view&top_view=day&limit=40&page=1 HTTP/1.1" 200 None
+2023-07-30 13:01:41,200 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:41,247 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1771
+2023-07-30 13:01:41,257 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:41,316 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?keyword=death+note&action=search&limit=30&page=1 HTTP/1.1" 200 1771
+2023-07-30 13:01:55,066 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:56,013 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=20941&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 745
+2023-07-30 13:01:56,028 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:56,078 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=20941&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 745
+2023-07-30 13:01:56,092 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:56,162 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=20941&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 745
+2023-07-30 13:01:56,181 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:56,232 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=20941&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 745
+2023-07-30 13:01:56,241 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:56,290 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=20941&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 745
+2023-07-30 13:01:56,300 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:56,353 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=20941&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 745
+2023-07-30 13:01:56,363 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:56,419 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=20941&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 745
+2023-07-30 13:01:56,430 - DEBUG - Starting new HTTPS connection (1): gogoanime.mom:443
+2023-07-30 13:01:56,481 - DEBUG - https://gogoanime.mom:443 "GET /my-ajax?movie_id=20941&action=list_episode&limit=100&different_page=0 HTTP/1.1" 200 745
