@@ -1,0 +1,12 @@
+name: Ping API to keep it awake
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # This runs the job every 30 minutes
+
+jobs:
+  ping-api:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send a request to the API
+        run: curl -s -o /dev/null -w "%{http_code}" https://jaaw-flask.onrender.com/popular
